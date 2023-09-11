@@ -57,7 +57,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-
 Screenreader:
 - Bij mijn laptop was het in eerste instantie moeilijk om de screenreader te activeren
 - Toen ik het activeerde las de screenreader maar 1 zin (de titel) voor
