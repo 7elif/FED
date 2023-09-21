@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Blauw
 
   #### Je focus:
-  Responsive
+  Resurface
  
 </details>
 
@@ -103,23 +103,15 @@ Toegankelijkheidstest:
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Geef classes aan de sections, zodat je ze iets beter aan kan spreken. Ik had de eerst sections aangesproken d.m.v. nth-child.
+  - Ik had bij mijn list items de a tagg gebruikt. Als feedback kreeg ik te horen dat ik een href elementen er ook bij moet zetten zodat het een echte a element is. Zo is het klikbaar en semantisch correct.
+  - Ik kreeg te horen dat ik bij elke sections een titel moet hebben.
+  - Ik had eerst een section met een h2 element en een p element. Ik kreeg te horen dat ik die twee elementen bij de vorige section neer kan zetten zodat mijn html iets compacter eruit ziet.
+  - Ook heb ik gevraagd hoe ik een gradient op een img moet zetten. 
 
 </details>
 
@@ -136,23 +128,15 @@ Toegankelijkheidstest:
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - Ik kreeg te horen dat ik een aria-label op mijn button moest zetten zodat de screenreader dit ook kan lezen
+  - Bij mijn eerste section heb ik een ul -> li -> img en in die img een a tagg. Er werd verteld dat ik de img tagg weg kan laten, omdat ik al een a element heb. Zo is het semantisch correcter.
+  - Bij mijn section genaamd popularreviews heb ik sections met een h4, h3, a, en een p. Er werd verteld dat ik alleen voor de titel een heading moet gebruiken en voor de rest van de elementen een p, omdat dit het toegankelijkheid verbeterd
+- Ik kreeg te horen dat het beter zou zijn als ik custom properties gebruik. Vooral voor mijn kleuren.
+- Ook kreeg ik als feedback om comments te zetten bij elke css alinea, zodat anderen mijn code sneller kunnen snappen
+- Ook werd er verteld dat ik active, hover en focus states moet hebben bij al mijn knoppen.
 
 </details>
 
@@ -181,6 +165,7 @@ Toegankelijkheidstest:
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+
 
 
   ### Agenda voor meeting
