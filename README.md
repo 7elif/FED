@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Blauw
 
   #### Je focus:
-  Resurface
+  Responsive
  
 </details>
 
@@ -69,6 +69,23 @@ Screenreader:
 Toegankelijkheidstest:
 - Het typen met twee vingers die vastgebonden aan elkaar zijn klinkt moeilijk, maar dat vond ik niet persee. Hoewel ik gewend ben aan typen met alle 5 mijn vingers, vond ik het niet lastig om mijn gewoonte te switchen naar typen met 1 vinger per hand, want dit doen we ook allemaal op de telefoon! Ik merkte wel dat ik veel langer erover deed om de meest korte woorden en zinnen te typen, wat niet chill is als je haast hebt of iets heel langs moet typen.
 - Daarnaast heb ik mijn zenuwstelsel laten scchrikken door middel van electrucerende schokken. Ik heb een paar verschillende standen, van milt naar ernstig, uitgeprobeerd en ik kwam erachter dat ik er toch iets beter tegen kon dan ik had verwacht. Ik zag hoe mijn andere klasgenoten het ervaarde en vond dat het er best eng uitzag waardoor ik het heel spannend vond. Door die hoge verwachtingen heb ik het apparaat toch iets minder heftig ervaart (denk ik). Tijdens het uittesten ben ik erachter gekomen dat het bijna onmogelijk is om dingen op je telefoon te doen als je hand/arm/lichaam zo erg trilt. Als je je arm aanspant, heb je iets meer controle over wat je doet, maar je arm raakt hierdoor snel moe waardoor het eigenlijk toch niet helpt. Ik kon tijdens het typen bijna helemaal niet typen en mijn apps openen door erop te klikken, er ging elke keer tijdens het proberen iets mis. 
+
+</details>
+
+<details>
+  <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+
+  ### Bevindingen Herkansing
+  Lijst met je bevindingen die in de test naar voren kwamen:
+Screenreader:
+- Ik wist niet hoe de screenreader aan ging, dus heb ik het op Google gezocht. Windows Key + CTRL en ENTER.
+- Drukkend op die toetsen, ging de screenreader aan op de Letterboxd website. Het eerste wat de screenreader zei was "Letterbox Social Film Discovery" wat best random is in mijn ogen.
+- Daarna drukte ik op Tab om naar de volgende elementen te gaan. Het las op de home pagina alles behalve de grote titel in het midden van het scherm (wat een best belangrijk tekstje is). 
+
+Toegankelijkheidstest:
+- Het typen met twee vingers die vastgebonden aan elkaar zijn klinkt moeilijk, maar dat vond ik niet persee. Hoewel ik gewend ben aan typen met alle 5 mijn vingers, vond ik het niet lastig om mijn gewoonte te switchen naar typen met 1 vinger per hand, want dit doen we ook allemaal op de telefoon! Ik merkte wel dat ik veel langer erover deed om de meest korte woorden en zinnen te typen, wat niet chill is als je haast hebt of iets heel lang moet typen.
+- Daarnaast heb ik mijn zenuwstelsel laten schrikken door middel van electrucerende schokken. Ik heb een paar verschillende standen, van milt naar ernstig, uitgeprobeerd. Als ik deze ervaring vergelijk met vorig jaar was het deze keer, voelde ik het deze keer heel erg. Ook heb ik de spasme instelling geprobeerd en dat was voor mijn gevoel best pijnlijk. Ik zou hier zeker niet mee kunnen typen of internetten. Ik had helemaal geen controle over mijn hand en toen ik die controle probeerde te pakken deed mijn arm en hand nog meer pijn. Tijdens het uittesten ben ik er ook achter gekomen dat het bijna onmogelijk is om dingen op je telefoon te doen als je hand/arm/lichaam zo erg trilt.
+- De brillen met een "beperking" op de glazen deden niet persee iets voor me. Ik kon er makkelijk doorheen kijken - het veranderde niet veel. 
 
 </details>
 
