@@ -73,7 +73,7 @@ Toegankelijkheidstest:
 </details>
 
 <details>
-  <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+  <summary>uitwerken na test in 2<sup>e</sup> werkgroep (herkansing)</summary>
 
   ### Bevindingen Herkansing
   Lijst met je bevindingen die in de test naar voren kwamen:
