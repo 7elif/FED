@@ -124,6 +124,31 @@ Toegankelijkheidstest:
 
 </details>
 
+<details>
+  <summary>uitwerken voor 1<sup>e</sup> voortgang Herkansing </summary>
+
+  ### Vooraf
+  <!-- Notes
+- 1H per pagina -> op deze is "Letterboxd" een H1
+- de H3 moeten all caps
+- feedback die ik gekregen heb op 16-11 van de studentassistenten:
+    De class hier(header-nav) moet weg; geen classes gebruiken, je roept dit op in de css met header-nav-i-type
+    Ik had een een figure - img en dan een span voor de achtergrond maar kreeg feedback: Nu beter een after en later in css die gradient in zetten-makkelijker en correcter. Span mag weg. de hele img mag weg want dat spreek je later in css. 
+	Alleen de nav bovenste balk is de header en de rest is de hero-section.
+	Had vorig jaar (bij de eerste section) <img a href= etc etc.> Kreeg feedback met dat de img tagg weg kan, omdat ik al een a heb -> semantisch correcter - a href met een hashtagg omdat die dan nergens heen gaat.
+	Ik had bij een paar sections eerst een h3, maar kreeg feedback met dat die altijd eerst met een h2 moeten beginnen en daarna een h3.
+    Popular reviews een h2, titel een h3, jaar ook een h3. atjes van gebruikersnaam en ster. tekst is een p en de likes een knop. minimaal 2 list items
+    Bij de section "recent stories"; h2 de titel van de list item. naam daarboven is een h3, daarna p.
+-->
+
+
+  ### Verslag van meeting
+  hier na afloop snel de uitkomsten van de meeting vastleggen
+
+  - Blabla
+
+</details>
+
 
 
 
