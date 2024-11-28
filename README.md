@@ -128,7 +128,7 @@ Toegankelijkheidstest:
   <summary>uitwerken voor 1<sup>e</sup> voortgang Herkansing </summary>
 
   ### Vooraf
-  <!-- Notes
+  Notes
 - 1H per pagina -> op deze is "Letterboxd" een H1
 - de H3 moeten all caps
 - feedback die ik gekregen heb op 16-11 van de studentassistenten:
@@ -139,7 +139,6 @@ Toegankelijkheidstest:
 	Ik had bij een paar sections eerst een h3, maar kreeg feedback met dat die altijd eerst met een h2 moeten beginnen en daarna een h3.
     Popular reviews een h2, titel een h3, jaar ook een h3. atjes van gebruikersnaam en ster. tekst is een p en de likes een knop. minimaal 2 list items
     Bij de section "recent stories"; h2 de titel van de list item. naam daarboven is een h3, daarna p.
--->
 
 
   ### Verslag van meeting
